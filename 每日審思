@@ -1,1 +1,0 @@
-Fb /api/graphql漏洞，這傳參數並沒有這麼嚴格，但是只想到修改fb遊戲分數上了，並沒有對其他功能進行分析context參數，錯失了提交hackerone的機會。
